@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiennguyendev2711&show_icons=true&locale=en&layout=compact" alt="kiennguyendev2711" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiennguyendev2711&show_icons=true&locale=en" alt="kiennguyendev2711" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KienNguyenDev2711&theme=default)](https://github-readme-streak-stats.herokuapp.com?user=KienNguyenDev2711)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KienNguyenDev2711&theme=default)](https://streak-stats.demolab.com?user=KienNguyenDev2711)
