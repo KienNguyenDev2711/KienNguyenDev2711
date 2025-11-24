@@ -12,4 +12,4 @@
 
 <p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KienNguyenDev2711&theme=default)](https://github-readme-streak-stats.herokuapp.com?user=KienNguyenDev2711)</p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com?user=KienNguyenDev2711&theme=default)](https://streak-stats.demolab.com?user=KienNguyenDev2711)</p>
+<a>[![GitHub Streak](https://streak-stats.demolab.com?user=KienNguyenDev2711&theme=default)](https://streak-stats.demolab.com?user=KienNguyenDev2711)</a>
