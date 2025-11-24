@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiennguyendev2711&show_icons=true&locale=en" alt="kiennguyendev2711" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KienNguyenDev2711&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KienNguyenDev2711&theme=transparent)](https://streak-stats.demolab.com?user=KienNguyenDev2711)
